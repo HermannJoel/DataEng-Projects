@@ -2,7 +2,7 @@
 
 ## 1. Pipeline Architecture
 
-![Image]( /enr_risk_modeling/env/Images/blx_mdp_etl_pipeline_.jpeg "Portolio risk modling data pipeline")
+![Image]( /enr_risk_modeling/env/Images/blx_mdp_etl_pipeline.jpeg "Portolio risk modling data pipeline")
 
 ## 2. Overview
 This project aims to model the exposure of a portfolio of renewable energy assets.
